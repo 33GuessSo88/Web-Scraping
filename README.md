@@ -1,0 +1,3 @@
+# Web-Scraping from dataquest website
+I was trying to learn how to web scrape, did a couple tutorials, they worked pretty good.
+Need more practice...
